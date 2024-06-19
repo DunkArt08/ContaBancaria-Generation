@@ -86,9 +86,9 @@ public abstract class Conta {
 			break;
 		}
 		
-		System.out.println("\n\n*************************************************************************");
+		System.out.println("\n*************************************************************************");
 		System.out.println("Dados da conta: ");
-		System.out.println("\n\n*************************************************************************");
+		System.out.println("\n*************************************************************************");
 		System.out.println("Numero da conta: " + this.numero);
 		System.out.println("Agência: " + this.agencia);
 		System.out.println("Tipo de conta: " + tipo);
